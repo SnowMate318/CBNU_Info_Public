@@ -1,0 +1,33 @@
+#Update log
+
+## TO-DO
+#### Notice Crawler
+- 해시값으로 중복체크 기능 추가
+- 페이지 내부 크롤링 기능 추가
+- 약학과 크롤링 추가(자바스크립트 요청이라 현재 안됨)
+#### Cieat Crawler
+- 구조변경
+
+
+## 2024-06-02
+
+### Added
+#### Notice Crawler
+- 로그 기능 추가
+- 업데이트 로그 추가
+#### Total
+- settings 에 gitignore 추가
+
+### Changed
+#### Notice Crawler
+- requests 구조 에서 scrapy 로 수정
+- func 함수 가독성 수정
+- classList 구조 및 버그 수정
+- queries 구조 및 가독성 수정
+#### Total
+- requirements.txt 수정
+- driverupdate.py 삭제
+- blackboard 폴더 삭제
+- timetable 폴더 삭제
+
+### Fixed
