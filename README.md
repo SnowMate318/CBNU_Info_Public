@@ -1,6 +1,5 @@
 # 충북대학교 - 종합정보 서비스
-
-![Image](https://github.com/user-attachments/assets/e732981a-a94c-4188-a1e6-2946a4207c83)
+<img src="https://github.com/user-attachments/assets/e732981a-a94c-4188-a1e6-2946a4207c83" width="500" height="250"/>
 
 ## 개요
 
@@ -20,13 +19,13 @@
 
 ### 주요 화면
 
-![Image](https://github.com/user-attachments/assets/ae41a016-6827-4205-82b2-1bdbf13b5775)
+<img src="https://github.com/user-attachments/assets/ae41a016-6827-4205-82b2-1bdbf13b5775" width="250" height="500"/>
 
-![Image](https://github.com/user-attachments/assets/6ada9e0e-a761-432a-9cc1-ac8e9476b0ac)
+<img src="https://github.com/user-attachments/assets/6ada9e0e-a761-432a-9cc1-ac8e9476b0ac" width="250" height="500"/>
 
-![Image](https://github.com/user-attachments/assets/17a05fa1-982e-4c1f-b877-0c29c1e6d3ca)
+<img src="https://github.com/user-attachments/assets/17a05fa1-982e-4c1f-b877-0c29c1e6d3ca" width="250" height="500"/>
 
-![Image](https://github.com/user-attachments/assets/2093d998-f34d-45b4-9ecf-2c8814c7dc67)
+<img src="https://github.com/user-attachments/assets/2093d998-f34d-45b4-9ecf-2c8814c7dc67" width="250" height="500"/>
 
 ## 아키텍쳐
 
@@ -49,7 +48,7 @@
 
 ### 개발 기간
 
-- 2022.11 ~ 2023.07
+- 2023.05 ~ 2024.05
 
 ### 개발 인원
 
@@ -71,11 +70,13 @@
     - 상태관리 기능 구현
 
 - 앱 배포
-    - 안드로이드 배포
-    - ios 배포
+    - 구글 플레이스토어 출시
+    - 앱스토어 출시
+      
 - 서버 제작
     - 데이터베이스 설계 및 구축
     - 크롤링 결과를 기반으로 사용자에게 알림 전송
+    - 
 - 서버 배포
 
 ### 사용 기술
@@ -87,8 +88,6 @@
     - Python
     - Django
     - DjangoRestFramework
-    
-
 - 배포
     - Linux 20.04
     - nginx
