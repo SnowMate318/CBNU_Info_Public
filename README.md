@@ -1,10 +1,6 @@
 # 충북대학교 - 종합정보 서비스
 
-생성 일시: 2025년 1월 27일 오후 3:35
-태그: 백엔드, 앱 프론트
-관련 링크: 링크를 입력하세요 →
-
-![IMG_97937BD839F6-1.jpeg](7a16e59a-04b2-44dc-8970-ed35618195a1.png)
+![Image](https://github.com/user-attachments/assets/e732981a-a94c-4188-a1e6-2946a4207c83)
 
 ## 개요
 
@@ -24,19 +20,19 @@
 
 ### 주요 화면
 
-![IMG_2191.jpg](IMG_2191.jpg)
+![Image](https://github.com/user-attachments/assets/ae41a016-6827-4205-82b2-1bdbf13b5775)
 
-![IMG_2190.jpg](IMG_2190.jpg)
+![Image](https://github.com/user-attachments/assets/6ada9e0e-a761-432a-9cc1-ac8e9476b0ac)
 
-![IMG_2192.jpg](IMG_2192.jpg)
+![Image](https://github.com/user-attachments/assets/17a05fa1-982e-4c1f-b877-0c29c1e6d3ca)
 
-![IMG_2193.jpg](IMG_2193.jpg)
+![Image](https://github.com/user-attachments/assets/2093d998-f34d-45b4-9ecf-2c8814c7dc67)
 
 ## 아키텍쳐
 
 ---
 
-![충북대학교 종합정보서비스.drawio.png](%E1%84%8E%E1%85%AE%E1%86%BC%E1%84%87%E1%85%AE%E1%86%A8%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD_%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3.drawio.png)
+![Image](https://github.com/user-attachments/assets/f651c23f-4b32-4cde-bdb2-41872c216a0b)
 
 - 어플리케이션
     - 사용자가 입력한 정보를 바탕으로 정보 조회
