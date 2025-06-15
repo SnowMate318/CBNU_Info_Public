@@ -1,5 +1,9 @@
 # 충북대학교 - 종합정보 서비스
-<img src="https://github.com/user-attachments/assets/e732981a-a94c-4188-a1e6-2946a4207c83" width="500" height="250"/>
+
+
+<img src="https://github.com/user-attachments/assets/e732981a-a94c-4188-a1e6-2946a4207c83" width="400" height="250"/>
+
+
 
 ## 개요
 
